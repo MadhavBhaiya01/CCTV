@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 17 Nov 2025 12:24:11 at https://www.masuinfotech.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.masuinfotech.com/ -%L https://www.masuinfotech.com/ -O1 "C:\Users\SPI INFOTECH PVT LTD\Desktop\CCTV" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:24:11	Error: 	Could not include URL list: https://www.masuinfotech.com/
+12:26:22	Error: 	"Not Found" (404) at link https://www.masuinfotech.com/https://fonts.googleapis.com/css2?family=Arimo:wght@400;700&family=Great+Vibes&family=Montserrat:wght@100;300;400;500;600;700;800;900&display=swap (from https://www.masuinfotech.com/)
+12:26:22	Error: 	"Not Found" (404) at link https://www.masuinfotech.com/images/favicon.png (from https://www.masuinfotech.com/)
+12:26:52	Warning: 	File not parsed, looks like binary: https://www.masuinfotech.com/plugins/revolution/css/openhand.html
+12:26:52	Warning: 	Warning: store application/octet-stream without scan: C:/Users/SPI INFOTECH PVT LTD/Desktop/CCTV/www.masuinfotech.com/plugins/revolution/css/openhand.html
+12:26:52	Warning: 	File not parsed, looks like binary: https://www.masuinfotech.com/plugins/revolution/css/closedhand.html
+12:26:52	Warning: 	Warning: store application/octet-stream without scan: C:/Users/SPI INFOTECH PVT LTD/Desktop/CCTV/www.masuinfotech.com/plugins/revolution/css/closedhand.html
+12:28:47	Error: 	"Not Found" (404) at link https://www.masuinfotech.com/admin/assets/images/ (from https://www.masuinfotech.com/services/images/background/5.jpg)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 59 seconds : 407 links scanned, 403 files written (20824284 bytes overall) [14364131 bytes received at 21796 bytes/sec], 7931822 bytes transferred using HTTP compression in 279 files, ratio 17%, 1.8 requests per connection
+(4 errors, 4 warnings, 0 messages)
